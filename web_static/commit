@@ -1,1 +1,7 @@
-git commit -m 'a' 
+#!/bin/bash
+
+# Prompt the user for the commit message
+read -p "Input Message: " message
+
+# Execute the git commit command
+git commit -m "$message"
