@@ -1,0 +1,7 @@
+/* An HTML page that displays a header and a footer by using CSS files*/
+header {
+    background-color: #FF0000;
+    height: 70px;
+    width: 100%;
+}
+
