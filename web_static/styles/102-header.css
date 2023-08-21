@@ -1,0 +1,10 @@
+/* Improve the page by adding responsive design to display correctly in mobile or small screens. */
+header {
+    height: 70px;
+    width: 100%;
+    border-bottom: 1px solid #CCCCCC;
+    background: white url(../images/logo.png);
+    background-repeat: no-repeat;
+    background-position: 20px center;
+    flex-shrink: 0;
+}
